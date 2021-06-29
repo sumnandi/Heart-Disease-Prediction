@@ -1,4 +1,4 @@
-# MINOR-PROJECT-SWE5302
+# HEART DISEASE PREDICTION
 ## AIM
 This innovative project attempts to predict the presence of heart disease by utilizing base learners, ensemble combination rules and ensemble classifiers.
 ## INTRODUCTION
