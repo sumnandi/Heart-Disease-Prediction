@@ -8,7 +8,13 @@ This innovative project attempts to predict the presence of heart disease by uti
 * I have taken various parameters into account such as Accuracy, Precision, Recall and F1-score 
 in order to analyze the performance and conducted a comparative study of the various models used.
 ## DATASET OVERVIEW
+### 1. Graph Plot : Number of patients v/s Age
+From this graph, it can be concluded that in the age group ranging from 41-60 years, the rate of heart disease is the highest.
+
 ![Number of patients v/s Age](https://github.com/sumnandi/MINOR-PROJECT-SWE5302-/blob/main/Dataset%20Overview_2.png)
+### 2. Graph Plot : Gender v/s Target
+The number of males and females in the dataset is 207 and 96, respectively. Out of 207 males 93 have a heart disease and out of 96 females 72 are suffering from a heart disease.
+
 ![Gender v/s Target](https://github.com/sumnandi/MINOR-PROJECT-SWE5302-/blob/main/Dataset%20Overview_1.png)
 ## CONCLUSION
 The accuracy report of all the algorithms used are shown below.
