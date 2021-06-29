@@ -19,5 +19,6 @@ The number of males and females in the dataset is 207 and 96, respectively. Out 
 ## CONCLUSION
 The accuracy report of all the algorithms used are shown below.
 It is observed that the accuracy has been increased by the using of Ensemble techniques namely Bagging and Gradient Boosting both having an accuracy of 81.3%.
+
 ![Conclusion](https://github.com/sumnandi/MINOR-PROJECT-SWE5302-/blob/main/Conclusion.png)
 
